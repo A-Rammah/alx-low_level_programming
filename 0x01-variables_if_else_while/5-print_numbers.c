@@ -9,17 +9,12 @@
 
 int main(void)
 {
-	char alphabet = 'a';
+	int i = 0;
 
-	while (alphabet <= 'z')
+	for (i = 0; i < 10; i++)
 	{
-		if (alphabet != 'q' && alphabet != 'e')
-		{
-			putchar(alphabet);
-		}
-		alphabet++;
+		printf("%d\n", i);
 	}
 
-	putchar('\n');
 	return (0);
 }
