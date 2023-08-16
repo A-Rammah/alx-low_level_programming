@@ -2,6 +2,7 @@
 
 /**
  * NAME: (0-putchar.c)
+ * Entry point: main
  * DESC.: This program prints _putchar, followed by a new line.
  * Return: 0
  *
