@@ -1,11 +1,9 @@
 #include "main.h"
 
-/*
- *print_alphabet - fundtion prints alphabet.
- * FUNCTIONS: print_alphabet.
- * DESCRIPTION: This is a prototype for printing the alphabet.
- * INPUT: N/A
- * RETUREN: 0
+/**
+ *print_alphabet - print alphabet lowercase
+ *
+ *Return: Always 0
  */
 
 void print_alphabet(void)
