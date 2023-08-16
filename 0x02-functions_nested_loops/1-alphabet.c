@@ -1,7 +1,7 @@
 #include "main.h"
 
 /*
- * print_alphabet - fundtion prints alphabet. 
+ *print_alphabet - fundtion prints alphabet.
  * FUNCTIONS: print_alphabet.
  * DESCRIPTION: This is a prototype for printing the alphabet.
  * INPUT: N/A
