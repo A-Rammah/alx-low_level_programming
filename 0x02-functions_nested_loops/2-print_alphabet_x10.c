@@ -2,7 +2,7 @@
 
 /**
  *print_alphabet_x10 - prints 10 folds of the alphabet.
- *	
+ *
  *return: void
  */
 
